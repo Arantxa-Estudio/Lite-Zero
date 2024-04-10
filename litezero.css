@@ -1,6 +1,9 @@
 [data-lz-modal] {
    cursor: pointer;
 }
+.lz_overhide {
+   overflow: hidden;
+}
 .lz_modal {
    top: 0;
    left: 0;
